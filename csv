@@ -1,0 +1,13 @@
+sale_id,store_id,product_cat,revenue,units_sold,month_year,returns
+1,101,Electronics,12000,80,2025-01-01,5
+2,101,Apparel,8500,170,2025-01-01,8
+3,102,Electronics,15000,100,2025-01-01,3
+4,102,Apparel,7200,144,2025-01-01,12
+5,103,Electronics,9000,60,2025-01-01,7
+6,103,Apparel,6800,136,2025-01-01,9
+7,101,Electronics,13000,85,2025-02-01,4
+8,101,Apparel,9200,184,2025-02-01,6
+9,102,Electronics,16000,105,2025-02-01,2
+10,102,Apparel,7800,156,2025-02-01,10
+11,103,Electronics,10000,65,2025-02-01,6
+12,103,Apparel,7200,144,2025-02-01,8
